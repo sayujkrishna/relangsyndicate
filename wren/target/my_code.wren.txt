@@ -1,0 +1,2 @@
+ var name = "World"
+    System.print("Hello, %(name)!")
